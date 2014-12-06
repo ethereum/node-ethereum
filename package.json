@@ -37,6 +37,7 @@
     "minimist": "*",
     "mkdirp": "^0.5.0",
     "nat-upnp": "0.2.11",
+    "multilevel":"*",
     "npmlog": "*",
     "request": "^2.40.0",
     "secp256k1": "0.0.13",
