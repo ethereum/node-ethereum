@@ -36,6 +36,7 @@
     "levelup": "^0.19.0",
     "minimist": "*",
     "mkdirp": "^0.5.0",
+    "multilevel":"*",
     "nat-upnp": "0.2.11",
     "npmlog": "*",
     "request": "^2.40.0",
