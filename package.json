@@ -34,6 +34,7 @@
     "level-writestream": "^0.1.3",
     "leveldown": "^1.0.0",
     "levelup": "git+https://github.com/rvagg/node-levelup.git#1.0.0-wip",
+    "jsonfile": "^2.0.0",
     "minimist": "*",
     "mkdirp": "^0.5.0",
     "nat-upnp": "0.2.11",
