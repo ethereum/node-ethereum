@@ -5,7 +5,8 @@ var App = require('../'),
 var app,
   peers = [],
   numberOfPeers = 5, //the amount of peers to create in this test must be more than 3 for the tests to work properly
-  startPort = 30316;
+  startPort = 30316,
+  dbPort = 3000;
 
 describe('basic app functions', function() {
 
@@ -30,6 +31,7 @@ describe('basic app functions', function() {
       function(callback) {
         var settings = {
           'network': {
+            'dbport': dbPort,
             'port': startPort,
             'host': '0.0.0.0'
           },
@@ -39,6 +41,8 @@ describe('basic app functions', function() {
 
         count++;
         settings.network.port += count;
+        settings.network.dbport += count;
+
         settings.path = './test/testClient' + count;
 
         try {
