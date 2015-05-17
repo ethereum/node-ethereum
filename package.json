@@ -1,6 +1,6 @@
 {
   "name": "node-ethereum",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "description": "a simple standalone or embeddable Ethereum client written for Node.js",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
     "async": "*",
     "bn.js": "^2.0.1",
     "body-parser": "~1.10.1",
-    "ethereumjs-lib": "0.3.0",
+    "ethereumjs-lib": "0.3.1",
     "ethereumjs-util": "0.1.0",
     "express": "~4.11.0",
     "external-ip": "^0.2.3",
