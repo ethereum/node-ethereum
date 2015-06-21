@@ -13,3 +13,5 @@ npm-debug.log
 node_modules
 
 test/testdb
+
+.DS_Store
