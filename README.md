@@ -1,6 +1,6 @@
 node-ethereum [![Build Status](https://travis-ci.org/ethereum/node-ethereum.svg)](https://travis-ci.org/ethereum/node-ethereum)
 ===============
-[DEPICATED]
+[DEPICATED]   
 this is being broken into micro-services
 -see [node blockchain server](https://github.com/ethereum/node-blockchain-server)
 
