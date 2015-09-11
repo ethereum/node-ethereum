@@ -1,8 +1,8 @@
 node-ethereum [![Build Status](https://travis-ci.org/ethereum/node-ethereum.svg)](https://travis-ci.org/ethereum/node-ethereum)
 ===============
 [DEPICATED]   
-this is being broken into micro-services
--see [node blockchain server](https://github.com/ethereum/node-blockchain-server)
+this is being broken into micro-services, Like   
+ - [node blockchain server](https://github.com/ethereum/node-blockchain-server)
 
 a simple standalone or embeddable Ethereum client written for Node.js.
 
